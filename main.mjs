@@ -6,3 +6,5 @@ const main = async () => {
 };
 
 main().catch((error) => console.log(error));
+
+console.log("I learn how to use git")
